@@ -9,3 +9,6 @@ Seperate the construction of a complex object from its representation so that th
 
 ###Factory Method
 Define an interface for creating an object, but let subclass to decide whichclass to instantiate.Factory Method let a class defer instantiation to subclass.
+
+###Prototype
+Specify the kinds of object to create using a prototypical instance, and create new object by copying this prototype.
