@@ -12,3 +12,6 @@ Define an interface for creating an object, but let subclass to decide whichclas
 
 ###Prototype
 Specify the kinds of object to create using a prototypical instance, and create new object by copying this prototype.
+
+###Singleton
+Ensure a class has only one instance, and provide a global point to access it.
