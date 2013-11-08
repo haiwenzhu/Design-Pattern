@@ -17,4 +17,7 @@ Specify the kinds of object to create using a prototypical instance, and create 
 Ensure a class has only one instance, and provide a global point to access it.
 
 ###Adapter
-Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces
+Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
+
+###Bridge
+Decouple an abstraction from its implementation so that the two way can vary independent.
