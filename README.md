@@ -21,3 +21,9 @@ Convert the interface of a class into another interface clients expect. Adapter 
 
 ###Bridge
 Decouple an abstraction from its implementation so that the two way can vary independent.
+
+###Decorator
+Attach additional responsiblities to an object dynamically. Decorator provide a flexible alternative way to subclassing for extending functionality.
+
+###Facade
+Provide a unified interface to a set of interfaces in a subsystem. Facade defines a high-level interface that makes the subsystem easier to use.
