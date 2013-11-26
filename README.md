@@ -27,3 +27,6 @@ Attach additional responsiblities to an object dynamically. Decorator provide a 
 
 ###Facade
 Provide a unified interface to a set of interfaces in a subsystem. Facade defines a high-level interface that makes the subsystem easier to use.
+
+###Proxy
+Provide a surrogate or placeholder for another object to control access to it.
