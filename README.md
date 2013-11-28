@@ -30,3 +30,6 @@ Provide a unified interface to a set of interfaces in a subsystem. Facade define
 
 ###Proxy
 Provide a surrogate or placeholder for another object to control access to it.
+
+###Command
+Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log request, and support undoable operation.
